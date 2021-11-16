@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-16 01:27+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\portfolio\settings.py:98
+msgid "English"
+msgstr ""
+
+#: .\portfolio\settings.py:99
+msgid "Russian"
+msgstr ""
+
+#: .\portfolio\settings.py:100
+msgid "Uzbek"
+msgstr ""
+
+#: .\templates\index.html:42
+msgid "Home"
+msgstr "Главная"
+
+#: .\templates\index.html:43
+msgid "About Us"
+msgstr "О мне"
+
+#: .\templates\index.html:44
+msgid "Resume"
+msgstr "Резюме"
+
+#: .\templates\index.html:45 .\templates\index.html:408
+msgid "Services"
+msgstr "Услуги"
+
+#: .\templates\index.html:46
+msgid "Projects"
+msgstr "Проекты"
+
+#: .\templates\index.html:60
+msgid "Contact"
+msgstr "Контакты"
+
+#: .\templates\index.html:71
+msgid "Hey! I am"
+msgstr "Здравствуйте! Меня зовут"
+
+#: .\templates\index.html:72
+msgid "Fathulla Latipov"
+msgstr "Фатхулла Латипов"
+
+#: .\templates\index.html:73
+msgid "I'm a"
+msgstr "Я"
+
+#: .\templates\index.html:74
+msgid "Web Developer"
+msgstr "Веб разработчик"
+
+#: .\templates\index.html:101
+msgid "About"
+msgstr "О мне"
+
+#: .\templates\index.html:102
+msgid "About Me"
+msgstr "О мне"
+
+#: .\templates\index.html:103
+msgid ""
+"A small river named Duden flows by their place and supplies it with the "
+"necessary regelialia."
+msgstr ""
+
+#: .\templates\index.html:105
+msgid "Name"
+msgstr "Имя"
+
+#: .\templates\index.html:105
+msgid "Latipov Fathulla"
+msgstr "Латипов Фатхулла"
+
+#: .\templates\index.html:106
+msgid "Date of birth"
+msgstr "День рождения"
+
+#: .\templates\index.html:106
+msgid "September 16 2002"
+msgstr "Сентябрь 16 2002"
+
+#: .\templates\index.html:107 .\templates\index.html:533
+msgid "Address"
+msgstr "Адрес"
+
+#: .\templates\index.html:107
+msgid "Uzbekistan Tashkent"
+msgstr "Узбекистан Ташкент"
+
+#: .\templates\index.html:109
+msgid "Phone"
+msgstr "Телефон"
+
+#: .\templates\index.html:117
+msgid "Project complete"
+msgstr "Сделанных проектов"
+
+#: .\templates\index.html:119
+msgid "Call me now!"
+msgstr "Звонить сейчас!"
+
+#: .\templates\index.html:155 .\templates\index.html:164
+msgid "Education"
+msgstr "Образования"
+
+#: .\templates\index.html:156 .\templates\index.html:198
+msgid "Experience"
+msgstr "Опыт работы"
+
+#: .\templates\index.html:157 .\templates\index.html:241
+msgid "Skills"
+msgstr "Навыки"
+
+#: .\templates\index.html:172
+msgid ""
+"During these years I studied frontend. I learned languages ​​like HTML, CSS, "
+"Bootstrap, JS. "
+msgstr "Я в эти годы изучал Фронтэнд. Я изучал языки как HTML,CSS,Bootstrap,JS"
+
+#: .\templates\index.html:182
+msgid ""
+"During these years I studied the backend. I've learned languages ​​like "
+"Python, PostgeSQL, Python-Telegram-Bot, REST API and Git (GitHub)"
+msgstr ""
+"Я в эти годы изучал Бэкенд. Я изучал языки как Python,PostgreSQL,Python-"
+"Telegram-Bot,REST API и Git(GitHub)"
+
+#: .\templates\index.html:182
+msgid "certificate available"
+msgstr "сертификат имеется"
+
+#: .\templates\index.html:191
+msgid "YouTube learning React.js"
+msgstr "Изучения React.js через YouTube"
+
+#: .\templates\index.html:192
+msgid "I'm learning React.js in YouTube"
+msgstr "Я изучал React.js через YouTube"
+
+#: .\templates\index.html:205
+msgid "Cosmo Media Marketing Agency"
+msgstr ""
+
+#: .\templates\index.html:206
+msgid ""
+"Cosmo Media Marketing is my first office job before that I worked as a "
+"freelancer. I worked in this company for 6 months"
+msgstr ""
+"Cosmo Media Marketing это моя первая работа в оффисе до этого я был "
+"фрилансером.Я работал в этом компании в течении 6 месяцев"
+
+#: .\templates\index.html:215
+msgid "Bright Media Marketing Company"
+msgstr ""
+
+#: .\templates\index.html:216
+msgid ""
+"Bright Media Marketing Company. This is my second job in the office. I "
+"worked here for 5 months. Developed different types of websites and online "
+"stores and more .."
+msgstr ""
+"Bright Media Marketing Company. Это моя вторая место работы в оффисе.Я "
+"работал в этом компании в течении 5 месяцев.Разрабатывал разные типы веб "
+"сайтов и интернет магазинов и другие"
+
+#: .\templates\index.html:225
+msgid "WebCaspers IT-Company"
+msgstr ""
+
+#: .\templates\index.html:226
+msgid ""
+"WebCaspers IT-Company. This is my third job in the office. I worked here for "
+"3 months. Developed different types of websites and online stores and more .."
+msgstr ""
+"WebCaspers IT-Company. Это моя третья место работы в оффисе.Я работал в этом "
+"компании в течении 3 месяцев.Разрабатывал разные типы веб сайтов и интернет "
+"магазинов и другие"
+
+#: .\templates\index.html:235
+msgid "Freelancer"
+msgstr "Фрилансер"
+
+#: .\templates\index.html:236
+msgid ""
+"Freelancer - I worked as a freelancer and did various projects for people, "
+"from Telegram bots to online stores, etc."
+msgstr ""
+"Фрилансер - Я работал фрилансером и делал разные проекты для людей,начиная с "
+"Телеграм ботов до интернет магазинов и т.д"
+
+#: .\templates\index.html:419
+msgid "Create Web-sites"
+msgstr "Создания Веб сайтов"
+
+#: .\templates\index.html:420
+msgid ""
+"Create of landing-page sites, multi-page sites, business card sites, catalog "
+"sites and other"
+msgstr ""
+"Создаю лендинг-пейдж сайты,многостраничный сайты,сайт визитка,сайт каталог и "
+"другие "
+
+#: .\templates\index.html:430
+msgid "Create Telegram-Bots"
+msgstr "Создания Телеграм-ботов"
+
+#: .\templates\index.html:431
+msgid "Create Telegram_Bot for bussines"
+msgstr "Создаю Телеграм-бот для бизнеса"
+
+#: .\templates\index.html:441
+msgid "Create Eshop"
+msgstr "Создания Интернет магазинов"
+
+#: .\templates\index.html:442
+msgid "Creation of online stores, online platforms and others"
+msgstr "Создаю интернет магазин, онлайн платформу и другие"
+
+#: .\templates\index.html:455
+msgid "Our Projects"
+msgstr "Все проекты"
+
+#: .\templates\index.html:522
+msgid "Contact Me"
+msgstr "Мои контакты"
+
+#: .\templates\index.html:544
+msgid "Contact Numbers"
+msgstr "Контактные Номера"
+
+#: .\templates\index.html:555
+msgid "Email Address"
+msgstr "Email Адрес"
