@@ -11029,6 +11029,7 @@ h5,
     position: relative;
     display: block;
     padding-bottom: 2px;
+    font-weight:600
 }
 
 @media (max-width: 1199.98px) {
@@ -11649,7 +11650,7 @@ h5,
 }
 
 .work_5 {
- background-image:url('/static/images/my_projects/platforma.jpg');
+ background-image:url('/static/images/my_projects/neochair.jpg');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
