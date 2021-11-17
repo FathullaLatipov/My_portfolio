@@ -88,7 +88,7 @@
                         <div class="overlay"></div>
                         <div class="my_name img d-flex align-self-stretch align-items-center">
                             <div class="container">
-                                                            <img class="my_name" src="{% static '/images/me.jpg' %}"  alt="">
+                                <img class="my_name" src="{% static '/images/me.jpg' %}"  alt="">
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="col-md-12 heading-section ftco-animate">
                             <h1 class="big">{% trans 'About' %}</h1>
                             <h2 class="mb-4">{% trans 'About Me' %}</h2>
-                            <p>{% trans 'A small river named Duden flows by their place and supplies it with the necessary regelialia.' %}</p>
+                            <p style="font-size:17px">{% trans 'Меня зовут Фатхулла Латипов.Я работаю как с Фронт-энд так и с Бэк-энд и с Базами данных.Я всегда энергичен и стремлюсь осваивать новые навыки, имею опыт работы в команде и индивидуально' %}</p>
                             <ul class="about-info mt-4 px-md-0 px-2">
                                 <li class="d-flex"><span>{% trans 'Name' %}:</span> <span>{% trans 'Latipov Fathulla' %}</span></li>
                                 <li class="d-flex"><span>{% trans 'Date of birth' %}:</span> <span>{% trans 'September 16 2002' %}</span></li>
@@ -114,7 +114,7 @@
                                 <span class="number" data-number="25">0</span>
                                 <span>{% trans 'Project complete' %}</span>
                             </p>
-                            <p><a href="#" class="btn btn-primary py-3 px-3">{% trans 'Call me now!' %} </a></p>
+                            <p><a href="tel:+998977262700" class="btn btn-primary py-3 px-3">{% trans 'Call me now!' %} </a></p>
                         </div>
                     </div>
                 </div>
@@ -511,7 +511,7 @@
                     </div>
                 </div>
             </div>
-            <h4 style="text-align:center"><span style="text-align:center">Более 25 проектов</span></h4>
+            <h4 style="text-align:center"><span style="text-align:center">{% trans 'Более 25 проектов' %}</span></h4>
         </div>
     </section>
 
@@ -531,7 +531,7 @@
                         </div>
                         <div>
                             <h3 class="mb-4">{% trans 'Address' %}</h3>
-                            <p>Uzbekistan Tashkent Chilanzar</p>
+                            <p>{% trans 'Uzbekistan Tashkent Chilanzar' %}</p>
                         </div>
                     </div>
                 </div>
@@ -578,12 +578,12 @@
 
                 <div class="col-md mx-auto">
                     <div class="ftco-footer-widget mb-4 ml-md-4">
-                        <h2 class="ftco-heading-2">Links</h2>
+                        <h2 class="ftco-heading-2">{% trans 'Links' %}</h2>
                         <ul class="list-unstyled">
-                            <li><a href="#about-section"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
-                            <li><a href="#services-section"><span class="icon-long-arrow-right mr-2"></span>Services</a></li>
-                            <li><a href="#projects-section"><span class="icon-long-arrow-right mr-2"></span>Projects</a></li>
-                            <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                            <li><a href="#about-section"><span class="icon-long-arrow-right mr-2"></span>{% trans 'About' %}</a></li>
+                            <li><a href="#services-section"><span class="icon-long-arrow-right mr-2"></span>{% trans 'Services' %}</a></li>
+                            <li><a href="#projects-section"><span class="icon-long-arrow-right mr-2"></span>{% trans 'Projects' %}</a></li>
+                            <li><a href="#contact-section"><span class="icon-long-arrow-right mr-2"></span>{% trans 'Contact' %}</a></li>
                         </ul>
                     </div>
                 </div>
@@ -601,11 +601,11 @@
 <!--                </div>-->
                 <div class="col-md">
                     <div class="ftco-footer-widget mb-4">
-                        <h2 class="ftco-heading-2">Have a Questions?</h2>
+                        <h2 class="ftco-heading-2">{% trans 'Have a Questions?' %}</h2>
                         <div class="block-23 mb-3">
                             <ul>
                                 <li><span class="icon icon-map-marker"></span><span class="text">{% trans 'Uzbekistan Tashkent Chilanzar' %}</span></li>
-                                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+998(97)726-27-00</span></a></li>
+                                <li><a href="tel:+998977262700"><span class="icon icon-phone"></span><span class="text">+998(97)726-27-00</span></a></li>
                                 <li><a href="#"><span class="icon icon-envelope"></span><span class="text">fathullalatipov@gmail.com</span></a></li>
                             </ul>
                         </div>
@@ -620,7 +620,7 @@
                         Copyright &copy;
                         <script>
                             document.write(new Date().getFullYear());
-                        </script> All rights reserved
+                        </script> {% trans 'All rights reserved LF' %}
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </p>
                 </div>
