@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-19 00:34+0500\n"
+"POT-Creation-Date: 2021-11-21 02:24+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,16 +42,16 @@ msgstr ""
 msgid "Resume"
 msgstr ""
 
-#: .\templates\index.html:45 .\templates\index.html:406
-#: .\templates\index.html:584
+#: .\templates\index.html:45 .\templates\index.html:416
+#: .\templates\index.html:606
 msgid "Services"
 msgstr ""
 
-#: .\templates\index.html:46 .\templates\index.html:585
+#: .\templates\index.html:46 .\templates\index.html:607
 msgid "Projects"
 msgstr ""
 
-#: .\templates\index.html:60 .\templates\index.html:586
+#: .\templates\index.html:60 .\templates\index.html:608
 msgid "Contact"
 msgstr ""
 
@@ -71,7 +71,7 @@ msgstr ""
 msgid "Web Developer"
 msgstr ""
 
-#: .\templates\index.html:99 .\templates\index.html:583
+#: .\templates\index.html:99 .\templates\index.html:605
 msgid "About"
 msgstr ""
 
@@ -105,7 +105,7 @@ msgstr ""
 msgid "September 16 2002"
 msgstr ""
 
-#: .\templates\index.html:105 .\templates\index.html:533
+#: .\templates\index.html:105 .\templates\index.html:555
 msgid "Address"
 msgstr ""
 
@@ -202,112 +202,112 @@ msgid ""
 "from Telegram bots to online stores, etc."
 msgstr ""
 
-#: .\templates\index.html:417
+#: .\templates\index.html:427
 msgid "Create Web-sites"
 msgstr ""
 
-#: .\templates\index.html:418
+#: .\templates\index.html:428
 msgid ""
 "Create of landing-page sites, multi-page sites, business card sites, catalog "
 "sites and other"
 msgstr ""
 
-#: .\templates\index.html:428
+#: .\templates\index.html:438
 msgid "Create Telegram-Bots"
 msgstr ""
 
-#: .\templates\index.html:429
+#: .\templates\index.html:439
 msgid "Create Telegram_Bot for bussines"
 msgstr ""
 
-#: .\templates\index.html:439
+#: .\templates\index.html:449
 msgid "Create Eshop"
 msgstr ""
 
-#: .\templates\index.html:440
+#: .\templates\index.html:450
 msgid "Creation of online stores, online platforms and others"
 msgstr ""
 
-#: .\templates\index.html:453
+#: .\templates\index.html:463
 msgid "Our Projects"
 msgstr ""
 
-#: .\templates\index.html:461
+#: .\templates\index.html:472
 msgid "Bright Media"
 msgstr ""
 
-#: .\templates\index.html:462
+#: .\templates\index.html:473
 msgid "Multi-page site"
 msgstr ""
 
-#: .\templates\index.html:470
+#: .\templates\index.html:483
 msgid "Oftobnur"
 msgstr ""
 
-#: .\templates\index.html:471
+#: .\templates\index.html:484
 msgid "Landing page"
 msgstr ""
 
-#: .\templates\index.html:480
+#: .\templates\index.html:495
 msgid "Business House"
 msgstr ""
 
-#: .\templates\index.html:481
+#: .\templates\index.html:496
 msgid "multi-page site"
 msgstr ""
 
-#: .\templates\index.html:489
+#: .\templates\index.html:506
 msgid "Karma"
 msgstr ""
 
-#: .\templates\index.html:490 .\templates\index.html:509
+#: .\templates\index.html:507 .\templates\index.html:530
 msgid "E-shop"
 msgstr ""
 
-#: .\templates\index.html:498
+#: .\templates\index.html:517
 msgid "Chat for communication"
 msgstr ""
 
-#: .\templates\index.html:499
+#: .\templates\index.html:518
 msgid "Chat"
 msgstr ""
 
-#: .\templates\index.html:508
+#: .\templates\index.html:529
 msgid "Neo chair"
 msgstr ""
 
-#: .\templates\index.html:514
+#: .\templates\index.html:536
 msgid "Более 25 проектов"
 msgstr "More than 25 projects"
 
-#: .\templates\index.html:522
+#: .\templates\index.html:544
 msgid "Contact Me"
 msgstr ""
 
-#: .\templates\index.html:534 .\templates\index.html:607
+#: .\templates\index.html:556 .\templates\index.html:629
 msgid "Uzbekistan Tashkent Chilanzar"
 msgstr ""
 
-#: .\templates\index.html:544
+#: .\templates\index.html:566
 msgid "Contact Numbers"
 msgstr ""
 
-#: .\templates\index.html:555
+#: .\templates\index.html:577
 msgid "Email Address"
 msgstr ""
 
-#: .\templates\index.html:570
+#: .\templates\index.html:592
 msgid "Social networks"
 msgstr ""
 
-#: .\templates\index.html:581
+#: .\templates\index.html:603
 msgid "Links"
 msgstr ""
 
-#: .\templates\index.html:604
+#: .\templates\index.html:626
 msgid "Have a Questions?"
 msgstr ""
 
-#: .\templates\index.html:623
+#: .\templates\index.html:645
 msgid "All rights reserved LF"
 msgstr ""
