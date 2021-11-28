@@ -38,7 +38,7 @@ msgstr "Главная"
 
 #: .\templates\index.html:43
 msgid "About Us"
-msgstr "Обо мне"
+msgstr "Об о мне"
 
 #: .\templates\index.html:44
 msgid "Resume"
@@ -75,20 +75,20 @@ msgstr "Веб разработчик"
 
 #: .\templates\index.html:99 .\templates\index.html:615
 msgid "About"
-msgstr "Обо мне"
+msgstr "Об о мне"
 
 #: .\templates\index.html:100
 msgid "About Me"
-msgstr "Обо мне"
+msgstr "Об о мне"
 
 #: .\templates\index.html:101
 
 msgid ""
-"Меня зовут Фатхулла Латипов.Я работаю как с Фронт-энд так и с Бэк-энд и с "
+"Меня зовут Фатхулла Латипов.Я работаю как с Фронт-энд так и с Бэк-энд и "
 "Базами данных.Я всегда энергичен и стремлюсь осваивать новые навыки, имею "
 "опыт работы в команде и индивидуально"
 msgstr ""
-"Меня зовут Фатхулла Латипов.Я работаю как с Front-end так и с Back-end и с "
+"Меня зовут Фатхулла Латипов.Я работаю с Front-end так, Back-end и с "
 "Базами данных.Я всегда энергичен и стремлюсь осваивать новые навыки, имею "
 "опыт работы в команде и индивидуально"
 
@@ -175,8 +175,8 @@ msgid ""
 "Cosmo Media Marketing is my first office job before that I worked as a "
 "freelancer. I worked in this company for 6 months"
 msgstr ""
-"Cosmo Media Marketing это моё первое работа в офисе до этого я был "
-"фрилансером.Работал в этой компании в 6 месяцев."
+"Cosmo Media Marketing это моя первая работа в офисе до этого я работал в "
+"фрилансе.Опыт работы в этой компании в 6 месяца."
 
 #: .\templates\index.html:213
 msgid "Bright Media Marketing Company"
@@ -188,8 +188,8 @@ msgid ""
 "worked here for 5 months. Developed different types of websites and online "
 "stores and more .."
 msgstr ""
-"Bright Media Marketing Company. Это моё второе место работы вкомпании 5 "
-"месяцев.Разрабатывал разные типы веб сайтов и интернет магазинов."
+"Bright Media Marketing Company. Это моя вторая место работы. Опыт работы в этой компании 5 "
+"месяца.Разрабатывал разные типы веб сайтов и интернет магазинов."
 
 #: .\templates\index.html:223
 msgid "WebCaspers IT-Company"
@@ -200,8 +200,8 @@ msgid ""
 "WebCaspers IT-Company. This is my third job in the office. I worked here for "
 "3 months. Developed different types of websites and online stores and more .."
 msgstr ""
-"WebCaspers IT-Company. Это моё третье место работы в офисе.Я работал в этом "
-"компании 3 месяцев.Разрабатывал разные типы веб сайтов и интернет магазинов."
+"WebCaspers IT-Company. Это моя третье место работы в офисе.Опыт работы в этой  "
+"компании 3 месяца.Разрабатывал разные типы веб сайтов и интернет магазинов."
 
 #: .\templates\index.html:233
 msgid "Freelancer"
