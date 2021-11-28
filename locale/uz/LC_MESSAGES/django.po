@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-21 02:24+0500\n"
+"POT-Creation-Date: 2021-11-28 17:27+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -42,16 +42,16 @@ msgstr "Men haqimda"
 msgid "Resume"
 msgstr "Xulosa"
 
-#: .\templates\index.html:45 .\templates\index.html:416
-#: .\templates\index.html:606
+#: .\templates\index.html:45 .\templates\index.html:426
+#: .\templates\index.html:616
 msgid "Services"
 msgstr "Xizmatlar"
 
-#: .\templates\index.html:46 .\templates\index.html:607
+#: .\templates\index.html:46 .\templates\index.html:617
 msgid "Projects"
 msgstr "Loyihalar"
 
-#: .\templates\index.html:60 .\templates\index.html:608
+#: .\templates\index.html:60 .\templates\index.html:618
 msgid "Contact"
 msgstr "Contact"
 
@@ -71,7 +71,7 @@ msgstr "Va man"
 msgid "Web Developer"
 msgstr "Web Dasturchi man"
 
-#: .\templates\index.html:99 .\templates\index.html:605
+#: .\templates\index.html:99 .\templates\index.html:615
 msgid "About"
 msgstr "Men haqimda"
 
@@ -85,9 +85,10 @@ msgid ""
 "Базами данных.Я всегда энергичен и стремлюсь осваивать новые навыки, имею "
 "опыт работы в команде и индивидуально"
 msgstr ""
-"Mening ismim Fatxulla Latipov. Men Front-end va Back-end bilan ham va "
-"yanaMa'lumotlar bazalari blan ishlayman. Men doimo baquvvatman va yangi "
-"ko'nikmalarni o'rganishga intilaman, menda bor jamoa va individual  tajriba"
+"Mening ismim Fatxulla Latipov. Men Front-end, Back-end va ma'lumotlar "
+"bazalari blan ishlayman. Men doimo kuch va quvvatga tola insonman va yangi "
+"bilimlarni organishga intilaman, jamoa va individual holatda ishlash "
+"tajribam bor"
 
 #: .\templates\index.html:103
 msgid "Name"
@@ -105,7 +106,7 @@ msgstr "Togilgan sana"
 msgid "September 16 2002"
 msgstr "Sentyabr 16 2002"
 
-#: .\templates\index.html:105 .\templates\index.html:555
+#: .\templates\index.html:105 .\templates\index.html:565
 msgid "Address"
 msgstr "Manzil"
 
@@ -216,11 +217,11 @@ msgstr ""
 "Frilanser - men frilanser bo'lib ishladim va odamlar uchun turli loyihalarni "
 "amalga oshirdimTelegram botlar dan onlayn-do'konlargacha."
 
-#: .\templates\index.html:427
+#: .\templates\index.html:437
 msgid "Create Web-sites"
 msgstr "Web-saytlar yaratish"
 
-#: .\templates\index.html:428
+#: .\templates\index.html:438
 msgid ""
 "Create of landing-page sites, multi-page sites, business card sites, catalog "
 "sites and other"
@@ -228,102 +229,102 @@ msgstr ""
 "Bir sahifali sahifalar sayto, ko'p sahifali saytlar, vizit karta saytlari, "
 "katalog saytlar yaratishva boshqalar"
 
-#: .\templates\index.html:438
+#: .\templates\index.html:448
 msgid "Create Telegram-Bots"
 msgstr "Telegram-botlarini yaratish"
 
-#: .\templates\index.html:439
+#: .\templates\index.html:449
 msgid "Create Telegram_Bot for bussines"
 msgstr "Biznes uchun Telegram_Bot yaratish"
 
-#: .\templates\index.html:449
+#: .\templates\index.html:459
 msgid "Create Eshop"
 msgstr "Internet magazin yaratish"
 
-#: .\templates\index.html:450
+#: .\templates\index.html:460
 msgid "Creation of online stores, online platforms and others"
 msgstr "Onlayn do'konlar, onlayn platformalar va boshqalarni yaratish"
 
-#: .\templates\index.html:463
+#: .\templates\index.html:473
 msgid "Our Projects"
 msgstr "Barcha loyihalar"
 
-#: .\templates\index.html:472
+#: .\templates\index.html:482
 msgid "Bright Media"
 msgstr ""
 
-#: .\templates\index.html:473
+#: .\templates\index.html:483
 msgid "Multi-page site"
 msgstr "Ko'p sahifali sayt"
 
-#: .\templates\index.html:483
+#: .\templates\index.html:493
 msgid "Oftobnur"
 msgstr ""
 
-#: .\templates\index.html:484
+#: .\templates\index.html:494
 msgid "Landing page"
 msgstr "Bir sahifali sayt"
 
-#: .\templates\index.html:495
+#: .\templates\index.html:505
 msgid "Business House"
 msgstr ""
 
-#: .\templates\index.html:496
+#: .\templates\index.html:506
 msgid "multi-page site"
 msgstr "Ko'p sahifali sayt"
 
-#: .\templates\index.html:506
+#: .\templates\index.html:516
 msgid "Karma"
 msgstr ""
 
-#: .\templates\index.html:507 .\templates\index.html:530
+#: .\templates\index.html:517 .\templates\index.html:540
 msgid "E-shop"
 msgstr "Internet magazin"
 
-#: .\templates\index.html:517
+#: .\templates\index.html:527
 msgid "Chat for communication"
 msgstr "Muloqot uchun chat"
 
-#: .\templates\index.html:518
+#: .\templates\index.html:528
 msgid "Chat"
 msgstr "Chat"
 
-#: .\templates\index.html:529
+#: .\templates\index.html:539
 msgid "Neo chair"
 msgstr ""
 
-#: .\templates\index.html:536
+#: .\templates\index.html:546
 msgid "Более 25 проектов"
 msgstr "25 dan ortiq loyihalar"
 
-#: .\templates\index.html:544
+#: .\templates\index.html:554
 msgid "Contact Me"
 msgstr "Men bilan bog'lanish"
 
-#: .\templates\index.html:556 .\templates\index.html:629
+#: .\templates\index.html:566 .\templates\index.html:639
 msgid "Uzbekistan Tashkent Chilanzar"
 msgstr "Uzbekistan Tashkent Chilanzar"
 
-#: .\templates\index.html:566
+#: .\templates\index.html:576
 msgid "Contact Numbers"
 msgstr "Aloqa raqami"
 
-#: .\templates\index.html:577
+#: .\templates\index.html:587
 msgid "Email Address"
 msgstr "Email manzili"
 
-#: .\templates\index.html:592
+#: .\templates\index.html:602
 msgid "Social networks"
 msgstr "Ijtimoiy tarmoqlar"
 
-#: .\templates\index.html:603
+#: .\templates\index.html:613
 msgid "Links"
 msgstr "Havolalar"
 
-#: .\templates\index.html:626
+#: .\templates\index.html:636
 msgid "Have a Questions?"
 msgstr "Savollaringiz bormi?"
 
-#: .\templates\index.html:645
+#: .\templates\index.html:655
 msgid "All rights reserved LF"
 msgstr "Barcha huquqlar himoyalangan LF"
