@@ -11624,34 +11624,63 @@ h5,
 }
 
 .my_project {
- background-image:url('/static/images/my_projects/shop.jpg');
+ background-image:url('/static/images/my_projects/wordmap.png');
  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
 .work_1 {
- background-image:url('/static/images/my_projects/marketing.jpg');
+ background-image:url('/static/images/my_projects/mediaclub.png');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
 .work_2 {
- background-image:url('/static/images/my_projects/oftobnur.jpg');
+ background-image:url('/static/images/my_projects/uskunalar.png');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
 .work_3 {
- background-image:url('/static/images/my_projects/bs.jpg');
+ background-image:url('/static/images/my_projects/gipermart.png');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
 .work_4 {
- background-image:url('/static/images/my_projects/chat.jpg');
+ background-image:url('/static/images/my_projects/nayuta.png');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
 
 .work_5 {
- background-image:url('/static/images/my_projects/neochair.jpg');
+ background-image:url('/static/images/my_projects/taminot24.png');
   box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
 }
+.work_6 {
+ background-image:url('/static/images/my_projects/marketing.jpg');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_7 {
+ background-image:url('/static/images/my_projects/media-pipe.png');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_8 {
+ background-image:url('/static/images/my_projects/chat.jpg');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_9 {
+ background-image:url('/static/images/my_projects/oftobnur.jpg');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_10 {
+ background-image:url('/static/images/my_projects/shop2.png');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_11 {
+ background-image:url('/static/images/my_projects/srb.png');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+.work_12 {
+ background-image:url('/static/images/my_projects/ilm-yolida.png');
+  box-shadow:0 0.5rem 1rem rgb(0 0 0 / 15%) !important
+}
+
 
 .ftco-about ul.about-info {
     display: inline-block;

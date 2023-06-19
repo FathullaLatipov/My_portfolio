@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-23 15:06+0500\n"
+"POT-Creation-Date: 2023-06-20 00:42+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,67 +18,67 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: portfolio/settings.py:105
+#: portfolio/settings.py:111
 msgid "English"
 msgstr ""
 
-#: portfolio/settings.py:106
+#: portfolio/settings.py:112
 msgid "Russian"
 msgstr ""
 
-#: portfolio/settings.py:107
+#: portfolio/settings.py:113
 msgid "Uzbek"
 msgstr ""
 
-#: templates/index.html:42
+#: templates/index.html:57
 msgid "Home"
 msgstr ""
 
-#: templates/index.html:43
+#: templates/index.html:58
 msgid "About Us"
 msgstr ""
 
-#: templates/index.html:44
+#: templates/index.html:59
 msgid "Resume"
 msgstr ""
 
-#: templates/index.html:45 templates/index.html:426 templates/index.html:616
+#: templates/index.html:60 templates/index.html:481 templates/index.html:740
 msgid "Services"
 msgstr ""
 
-#: templates/index.html:46 templates/index.html:617
+#: templates/index.html:61 templates/index.html:741
 msgid "Projects"
 msgstr ""
 
-#: templates/index.html:60 templates/index.html:618
+#: templates/index.html:75 templates/index.html:742
 msgid "Contact"
 msgstr ""
 
-#: templates/index.html:71
+#: templates/index.html:86
 msgid "Hey! I am"
 msgstr ""
 
-#: templates/index.html:72
+#: templates/index.html:87
 msgid "Fathulla Latipov"
 msgstr ""
 
-#: templates/index.html:73
+#: templates/index.html:88
 msgid "I'm a"
 msgstr ""
 
-#: templates/index.html:74
-msgid "Web Developer"
+#: templates/index.html:89
+msgid "Middle back end developer"
 msgstr ""
 
-#: templates/index.html:99 templates/index.html:615
+#: templates/index.html:114 templates/index.html:739
 msgid "About"
 msgstr ""
 
-#: templates/index.html:100
+#: templates/index.html:115
 msgid "About Me"
 msgstr ""
 
-#: templates/index.html:101
+#: templates/index.html:116
 msgid ""
 "Меня зовут Фатхулла Латипов.Я работаю с Front-end так, Back-end и с Базами "
 "данных.Я всегда энергичен и стремлюсь осваивать новые навыки, имею опыт "
@@ -88,225 +88,245 @@ msgstr ""
 "with Databases. I am always energetic and strive to learn new skills, I have "
 "experience working in a team and individually"
 
-#: templates/index.html:103
+#: templates/index.html:118
 msgid "Name"
 msgstr ""
 
-#: templates/index.html:103
+#: templates/index.html:118
 msgid "Latipov Fathulla"
 msgstr ""
 
-#: templates/index.html:104
+#: templates/index.html:119
 msgid "Date of birth"
 msgstr ""
 
-#: templates/index.html:104
+#: templates/index.html:119
 msgid "September 16 2002"
 msgstr ""
 
-#: templates/index.html:105 templates/index.html:565
+#: templates/index.html:120 templates/index.html:689
 msgid "Address"
 msgstr ""
 
-#: templates/index.html:105
+#: templates/index.html:120
 msgid "Uzbekistan Tashkent"
 msgstr ""
 
-#: templates/index.html:107
+#: templates/index.html:122
 msgid "Phone"
 msgstr ""
 
-#: templates/index.html:115
+#: templates/index.html:130
 msgid "Project complete"
 msgstr ""
 
-#: templates/index.html:117
+#: templates/index.html:132
 msgid "Call me now!"
 msgstr ""
 
-#: templates/index.html:153 templates/index.html:162
+#: templates/index.html:168 templates/index.html:177
 msgid "Education"
 msgstr ""
 
-#: templates/index.html:154 templates/index.html:196
+#: templates/index.html:169 templates/index.html:221
 msgid "Experience"
 msgstr ""
 
-#: templates/index.html:155 templates/index.html:239
+#: templates/index.html:170 templates/index.html:274
 msgid "Skills"
 msgstr ""
 
-#: templates/index.html:170
+#: templates/index.html:185
 msgid ""
 "During these years I studied frontend. I learned languages ​​like HTML, CSS, "
 "Bootstrap, JS. "
 msgstr ""
 
-#: templates/index.html:180
+#: templates/index.html:195
 msgid ""
 "During these years I studied the backend. I've learned languages ​​like "
 "Python, PostgeSQL, Python-Telegram-Bot, REST API and Git (GitHub)"
 msgstr ""
 
-#: templates/index.html:180
+#: templates/index.html:195 templates/index.html:215
 msgid "certificate available"
 msgstr ""
 
-#: templates/index.html:189
-msgid "YouTube learning React.js"
+#: templates/index.html:204
+msgid "YouTube learning REST API"
 msgstr ""
 
-#: templates/index.html:190
-msgid "I'm learning React.js in YouTube"
+#: templates/index.html:205
+msgid "I'm learning REST APIs in YouTube"
 msgstr ""
 
-#: templates/index.html:203
+#: templates/index.html:215
+msgid ""
+"During these years I studied the data science. I've learned languages ​​like "
+"to Data Science"
+msgstr ""
+
+#: templates/index.html:228
 msgid "Cosmo Media Marketing Agency"
 msgstr ""
 
-#: templates/index.html:204
+#: templates/index.html:229
 msgid ""
 "Cosmo Media Marketing is my first office job before that I worked as a "
 "freelancer. I worked in this company for 6 months"
 msgstr ""
 
-#: templates/index.html:213
+#: templates/index.html:238
 msgid "Bright Media Marketing Company"
 msgstr ""
 
-#: templates/index.html:214
+#: templates/index.html:239
 msgid ""
 "Bright Media Marketing Company. This is my second job in the office. I "
 "worked here for 5 months. Developed different types of websites and online "
 "stores and more .."
 msgstr ""
 
-#: templates/index.html:223
+#: templates/index.html:248
 msgid "WebCaspers IT-Company"
 msgstr ""
 
-#: templates/index.html:224
+#: templates/index.html:249
 msgid ""
 "WebCaspers IT-Company. This is my third job in the office. I worked here for "
 "3 months. Developed different types of websites and online stores and more .."
 msgstr ""
 
-#: templates/index.html:233
+#: templates/index.html:258
+msgid "SAMO IT"
+msgstr ""
+
+#: templates/index.html:259
+msgid ""
+"SAMO IT-Company. This is my third job in the office. I worked here for 8 "
+"months. Developed different types of websites and online stores and more .."
+msgstr ""
+
+#: templates/index.html:268
 msgid "Freelancer"
 msgstr ""
 
-#: templates/index.html:234
+#: templates/index.html:269
 msgid ""
 "Freelancer - I worked as a freelancer and did various projects for people, "
 "from Telegram bots to online stores, etc."
 msgstr ""
 
-#: templates/index.html:437
+#: templates/index.html:492
 msgid "Create Web-sites"
 msgstr ""
 
-#: templates/index.html:438
+#: templates/index.html:493
 msgid ""
 "Create of landing-page sites, multi-page sites, business card sites, catalog "
 "sites and other"
 msgstr ""
 
-#: templates/index.html:448
+#: templates/index.html:503
 msgid "Create Telegram-Bots"
 msgstr ""
 
-#: templates/index.html:449
+#: templates/index.html:504
 msgid "Create Telegram_Bot for bussines"
 msgstr ""
 
-#: templates/index.html:459
+#: templates/index.html:514
 msgid "Create Eshop"
 msgstr ""
 
-#: templates/index.html:460
+#: templates/index.html:515
 msgid "Creation of online stores, online platforms and others"
 msgstr ""
 
-#: templates/index.html:473
+#: templates/index.html:528
 msgid "Our Projects"
 msgstr ""
 
-#: templates/index.html:482
+#: templates/index.html:537
 msgid "Bright Media"
 msgstr ""
 
-#: templates/index.html:483
+#: templates/index.html:538
 msgid "Multi-page site"
 msgstr ""
 
-#: templates/index.html:493
+#: templates/index.html:548
 msgid "Oftobnur"
 msgstr ""
 
-#: templates/index.html:494
+#: templates/index.html:549
 msgid "Landing page"
 msgstr ""
 
-#: templates/index.html:505
+#: templates/index.html:560
 msgid "Business House"
 msgstr ""
 
-#: templates/index.html:506
+#: templates/index.html:561
 msgid "multi-page site"
 msgstr ""
 
-#: templates/index.html:516
+#: templates/index.html:571
 msgid "Karma"
 msgstr ""
 
-#: templates/index.html:517 templates/index.html:540
+#: templates/index.html:572 templates/index.html:595 templates/index.html:618
+#: templates/index.html:641 templates/index.html:664
 msgid "E-shop"
 msgstr ""
 
-#: templates/index.html:527
+#: templates/index.html:582 templates/index.html:605 templates/index.html:628
+#: templates/index.html:651
 msgid "Chat for communication"
 msgstr ""
 
-#: templates/index.html:528
+#: templates/index.html:583 templates/index.html:606 templates/index.html:629
+#: templates/index.html:652
 msgid "Chat"
 msgstr ""
 
-#: templates/index.html:539
+#: templates/index.html:594 templates/index.html:617 templates/index.html:640
+#: templates/index.html:663
 msgid "Neo chair"
 msgstr ""
 
-#: templates/index.html:546
+#: templates/index.html:670
 msgid "Более 25 проектов"
 msgstr "More than 25 projects"
 
-#: templates/index.html:554
+#: templates/index.html:678
 msgid "Contact Me"
 msgstr ""
 
-#: templates/index.html:566 templates/index.html:639
+#: templates/index.html:690 templates/index.html:763
 msgid "Uzbekistan Tashkent Chilanzar"
 msgstr ""
 
-#: templates/index.html:576
+#: templates/index.html:700
 msgid "Contact Numbers"
 msgstr ""
 
-#: templates/index.html:587
+#: templates/index.html:711
 msgid "Email Address"
 msgstr ""
 
-#: templates/index.html:602
+#: templates/index.html:726
 msgid "Social networks"
 msgstr ""
 
-#: templates/index.html:613
+#: templates/index.html:737
 msgid "Links"
 msgstr ""
 
-#: templates/index.html:636
+#: templates/index.html:760
 msgid "Have a Questions?"
 msgstr ""
 
-#: templates/index.html:655
+#: templates/index.html:779
 msgid "All rights reserved LF"
 msgstr ""
