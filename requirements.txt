@@ -2,9 +2,7 @@ asgiref==3.4.1
 Django==3.2.9
 django-environ==0.8.1
 django-modeltranslation==0.17.3
-pip==21.3.1
 python-decouple==3.5
 pytz==2021.3
-setuptools==58.5.2
 six==1.16.0
 sqlparse==0.4.2
