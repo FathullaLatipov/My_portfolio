@@ -1,8 +1,15 @@
 asgiref==3.4.1
+certifi==2023.5.7
+charset-normalizer==3.1.0
 Django==3.2.9
 django-environ==0.8.1
 django-modeltranslation==0.17.3
+django-rosetta==0.9.9
+idna==3.4
+polib==1.2.0
 python-decouple==3.5
 pytz==2021.3
+requests==2.31.0
 six==1.16.0
 sqlparse==0.4.2
+urllib3==2.0.3
