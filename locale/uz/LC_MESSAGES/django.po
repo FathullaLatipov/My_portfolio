@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-20 00:42+0500\n"
+"POT-Creation-Date: 2023-06-20 16:47+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -283,7 +283,7 @@ msgid "Our Projects"
 msgstr "Barcha loyihalar"
 
 #: templates/index.html:537
-msgid "Bright Media"
+msgid "Mediaclub.uz"
 msgstr ""
 
 #: templates/index.html:538
@@ -291,43 +291,85 @@ msgid "Multi-page site"
 msgstr "Ko'p sahifali sayt"
 
 #: templates/index.html:548
-msgid "Oftobnur"
+msgid "Uskunalar.uz"
 msgstr ""
 
-#: templates/index.html:549
-msgid "Landing page"
-msgstr "Bir sahifali sayt"
+#: templates/index.html:549 templates/index.html:561 templates/index.html:641
+msgid "Online store"
+msgstr ""
 
 #: templates/index.html:560
-msgid "Business House"
+msgid "Gipermart.uz"
 msgstr ""
-
-#: templates/index.html:561
-msgid "multi-page site"
-msgstr "Ko'p sahifali sayt"
 
 #: templates/index.html:571
-msgid "Karma"
+msgid "Wordmap"
 msgstr ""
 
-#: templates/index.html:572 templates/index.html:595 templates/index.html:618
-#: templates/index.html:641 templates/index.html:664
-msgid "E-shop"
-msgstr "Internet magazin"
+#: templates/index.html:572
+msgid "Translation Platform for Business"
+msgstr ""
 
-#: templates/index.html:582 templates/index.html:605 templates/index.html:628
-#: templates/index.html:651
-msgid "Chat for communication"
-msgstr "Muloqot uchun chat"
+#: templates/index.html:582
+msgid "Nayuta.uz"
+msgstr ""
 
-#: templates/index.html:583 templates/index.html:606 templates/index.html:629
-#: templates/index.html:652
+#: templates/index.html:583
+msgid "Bank website"
+msgstr ""
+
+#: templates/index.html:594
+msgid "Bright Media"
+msgstr ""
+
+#: templates/index.html:595
+msgid "Web site for Marketing Agency"
+msgstr ""
+
+#: templates/index.html:605
+msgid "Media Pipe"
+msgstr ""
+
+#: templates/index.html:606
+msgid "Hand recognition"
+msgstr ""
+
+#: templates/index.html:617
 msgid "Chat"
 msgstr "Chat"
 
-#: templates/index.html:594 templates/index.html:617 templates/index.html:640
+#: templates/index.html:618
+msgid "Chat for communication"
+msgstr "Muloqot uchun chat"
+
+#: templates/index.html:628
+msgid "Oftobnur.uz"
+msgstr ""
+
+#: templates/index.html:629
+msgid "Landing page"
+msgstr "Bir sahifali sayt"
+
+#: templates/index.html:640
+msgid "Toy shop"
+msgstr ""
+
+#: templates/index.html:651
+msgid "Taminot 24"
+msgstr ""
+
+#: templates/index.html:652
+#, fuzzy
+#| msgid "Multi-page site"
+msgid "Multi-page website"
+msgstr "Ko'p sahifali sayt"
+
 #: templates/index.html:663
-msgid "Neo chair"
+msgid "055 Agency"
+msgstr ""
+
+#: templates/index.html:664
+msgid "Website for SMM Agency"
 msgstr ""
 
 #: templates/index.html:670
@@ -365,6 +407,12 @@ msgstr "Savollaringiz bormi?"
 #: templates/index.html:779
 msgid "All rights reserved LF"
 msgstr "Barcha huquqlar himoyalangan LF"
+
+#~ msgid "multi-page site"
+#~ msgstr "Ko'p sahifali sayt"
+
+#~ msgid "E-shop"
+#~ msgstr "Internet magazin"
 
 #~ msgid "Web Developer"
 #~ msgstr "Web Dasturchi man"
